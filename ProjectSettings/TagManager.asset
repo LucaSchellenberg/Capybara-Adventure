@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fence
+  - Worker
+  - NPC
+  - Playground
+  - Picnic
+  - Pond
+  - Maze
+  - MazeCenter
+  - KeyWorker
+  - Child
+  - Door
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Trees
+  - Benches
+  - Paths
+  - Fences
+  - Lamposts
+  - Playground
+  - Maze
+  - Picnic
+  - Pond
+  - Bridge
+  - Trash cans and flower pots
+  - Worker
+  - NPC
+  - KeyWorker
+  - Child
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
